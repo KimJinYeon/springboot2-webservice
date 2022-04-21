@@ -8,7 +8,6 @@ import org.springframework.context.annotation.ScopedProxyMode;
 import java.io.Serializable;
 
 @Getter
-@Scope(value = "session",proxyMode = ScopedProxyMode.TARGET_CLASS)
 public class SessionUser implements Serializable {
     private String name;
     private String email;
