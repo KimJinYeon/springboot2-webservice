@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-16T16:53:41" hostname="KimJinyeonui-MacBookAir.local" time="0.002">
+<testsuite name="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-16T17:06:21" hostname="KimJinyeonui-MacBookAir.local" time="0.035">
   <properties/>
-  <testcase name="lombok_function_test()" classname="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" time="0.002"/>
+  <testcase name="lombok_function_test()" classname="com.jojoldu.book.springboot.web.dto.HelloResponseDtoTest" time="0.035"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
