@@ -12,8 +12,8 @@ com/jojoldu/book/springboot/web/dto/PostsUpdateRequestDto.java
  com.jojoldu.book.springboot.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 com/jojoldu/book/springboot/web/dto/PostsResponseDto.java
  com.jojoldu.book.springboot.web.dto.PostsResponseDto
-com/jojoldu/book/springboot/web/PostsApiController.java
- com.jojoldu.book.springboot.web.PostsApiController
+com/jojoldu/book/springboot/domain/user/Role.java
+ com.jojoldu.book.springboot.domain.user.Role
 com/jojoldu/book/springboot/service/posts/PostsService.java
  com.jojoldu.book.springboot.service.posts.PostsService
 com/jojoldu/book/springboot/domain/posts/PostsRepository.java
@@ -49,5 +49,5 @@ com/jojoldu/book/springboot/web/HelloController.java
 com/jojoldu/book/springboot/domain/user/User.java
  com.jojoldu.book.springboot.domain.user.User
  com.jojoldu.book.springboot.domain.user.User$UserBuilder
-com/jojoldu/book/springboot/domain/user/Role.java
- com.jojoldu.book.springboot.domain.user.Role
+com/jojoldu/book/springboot/web/PostsApiController.java
+ com.jojoldu.book.springboot.web.PostsApiController
